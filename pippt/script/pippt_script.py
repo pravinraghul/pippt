@@ -27,18 +27,18 @@ def pippt_init(slide_name):
     copy_files('sample.dat', slide_name + '.py', path)
     
 def pippt_help():
-    print('Usage: pi-ppt [OPTIONS] <slide_name>')
+    print('Usage: pippt [OPTIONS] <slide_name>')
     print('')
-    print('  pi-ppt: A simple presentation module')
+    print('  pippt: A simple presentation module')
     print('')
     print('Options:')
-    print('  --init  Creates a sample format for the pi-ppt')
-    print('  --help  Short description on pi-ppt module')
+    print('  --init  Creates a sample format for the pippt')
+    print('  --help  Short description on pippt module')
 
 def pippt_usage():
-    print('Error: Missing arguments for pi-ppt')
+    print('Error: Missing arguments for pippt')
     print('')
-    print('Try "pi-ppt --help" for help')
+    print('Try "pippt --help" for help')
     
     
 # main function
