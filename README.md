@@ -1,6 +1,6 @@
-# Pi-ppt
+# pippt
 
-Pi-ppt is a simple presentation module based on Tkinter. The goal is to provide
+A simple presentation module based on Tkinter. The goal is to provide
 a new experience of creating a presentation by programming.
 
 ## Build
@@ -23,17 +23,17 @@ or
 
 **clone and install**
 
-`$ cd Pi-ppt`
+`$ cd pippt`
 
 `$ pip3 install .`
 
 ### Command Usage:
 Generates a sample format of code under given slide name
 
-`pi-ppt --init <slide_name>`
+`pippt --init <slide_name>`
 
 ## Design
-The Pi-ppt module is based tkinter. This module contains four classes
+The pippt module is based tkinter. This module contains four classes
   * `Pippt`          
   * `add_title_slide`
   * `add_slide`      
@@ -66,7 +66,7 @@ Auto line wrapping
 
 ## Sample run:
 
-`$ pi-ppt --init new_slide`
+`$ pippt --init new_slide`
 
 `$ cd new_slide/`
 
