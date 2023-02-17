@@ -74,4 +74,4 @@ Auto line wrapping
 
 ### Output:
 
-![image](docs/screen_shot.png)
+![image](docs/slide-1.png)
