@@ -74,4 +74,4 @@ Auto line wrapping
 
 ### Output:
 
-![image](docs/slide-1.png)
+demo: <a href="./docs/README.md">click here</a>
